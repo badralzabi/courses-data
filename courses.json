@@ -176,17 +176,7 @@
     "pastQuestionsLink": "https://example.com/pastquestions-discrete-math"
   },
 
-  {
-    "name": "بدووووووووووري",
-    "dossierDescription": "دوسية تشمل الملخصات، الأمثلة المحلولة، والمسائل الإضافية",
-    "summaryDescription": "تغطي المنطق، نظرية المجموعات، والعلاقات، وهي أساسية لعلوم الحاسوب",
-    "explanationDescription": "مصدر لشرح الرياضيات المتقطعة",
-    "pastQuestionsDescription": "أسئلة سنوات سابقة لمادة الرياضيات المتقطعة",
-    "dossierLink": "https://drive.google.com/file/d/ghi789/view?usp=sharing",
-    "summaryLink": "https://drive.google.com/uc?export=download&id=jkl012",
-    "explanationLink": "https://example.com/explanation-discrete-math",
-    "pastQuestionsLink": "https://example.com/pastquestions-discrete-math"
-  },
+ 
   {
     "name": "إدارة الأعمال",
     "dossierDescription": "دوسية تحتوي على دراسات حالة، نظريات إدارية، وأسئلة مراجعة",
