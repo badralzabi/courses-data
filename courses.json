@@ -1,6 +1,6 @@
 [
   {
-    "name": "التربية الوطنية  ",
+    "name": "التربية الوطنية",
     "dossierDescription": "دوسية المادة المتمدة",
     "summaryDescription": "يتوفر ملخص للماجة",
     "explanationDescription": "يمكنك ارسال لنا مصدر يشرح المادة",
@@ -175,8 +175,6 @@
     "explanationLink": "https://example.com/explanation-discrete-math",
     "pastQuestionsLink": "https://example.com/pastquestions-discrete-math"
   },
-
- 
   {
     "name": "إدارة الأعمال",
     "dossierDescription": "دوسية تحتوي على دراسات حالة، نظريات إدارية، وأسئلة مراجعة",
