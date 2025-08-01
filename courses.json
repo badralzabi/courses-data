@@ -1,142 +1,105 @@
-class Course {
-  final String name;
-  final String dossierDescription;
-  final String summaryDescription;
-  final String explanationDescription;
-  final String pastQuestionsDescription;
-  final String dossierLink;
-  final String summaryLink;
-  final String explanationLink;
-  final String pastQuestionsLink;
+[
+  
+   {
+    "name": "وطنية",
+    "dossierDescription": "دوسية المادة المتمدة",
+    "summaryDescription": "يتوفر ملخص للماجة",
+    "explanationDescription": "يمكنك ارسال لنا مصدر يشرح المادة",
+    "pastQuestionsDescription": "أسئلة سنوات سابقة لمادة التربية الوطنية",
+    "dossierLink": "https://drive.google.com/drive/folders/1jlyb792o40AqL8cmJypbmVlYTnSL71e_?usp=drive_link",
+    "summaryLink": "https://drive.google.com/drive/folders/1jlyb792o40AqL8cmJypbmVlYTnSL71e_",
+    "explanationLink": "https://www.instagram.com/jami3iyoun/",
+    "pastQuestionsLink": "https://drive.google.com/drive/folders/1jlyb792o40AqL8cmJypbmVlYTnSL71e_?usp=drive_link"
+  },
+  {
+    "name": "القيادة والمسؤولية",
+    "dossierDescription": "دوسية المادة المتمدة",
+    "summaryDescription": "يتوفر ملخص للمادة",
+    "explanationDescription": "يمكنك ارسال لنا مصدر يشرح المادة",
+    "pastQuestionsDescription": "أسئلة سنوات سابقة لمادة القيادة والمسؤلية",
+    "dossierLink": "https://drive.google.com/drive/folders/19aI748qG8fLBn3Iyft29CaUNkVOHWAaA?usp=drive_link",
+    "summaryLink": "https://drive.google.com/drive/folders/19aI748qG8fLBn3Iyft29CaUNkVOHWAaA?usp=drive_link",
+    "explanationLink": "https://www.instagram.com/jami3iyoun/",
+    "pastQuestionsLink": "https://drive.google.com/drive/folders/19aI748qG8fLBn3Iyft29CaUNkVOHWAaA?usp=drive_link"
+  },
+  {
+    "name": "مهارات الاتصال والتواصل",
+    "dossierDescription": "دوسية المادة المتمدة",
+    "summaryDescription": "يتوفر ملخص للمادة",
+    "explanationDescription": "يمكنك ارسال لنا مصدر يشرح المادة",
+    "pastQuestionsDescription": "للأسف حالياً لا تتوفر لدينا اسئلة سنوات للمادة",
+    "dossierLink": "https://drive.google.com/file/d/19kUpcF4uVbEST0mNAqBqLICL7bGsgmxK/view?usp=drive_link",
+    "summaryLink": "https://drive.google.com/file/d/1-EP_YxH-WDXmVcoxU7Dj_QdeNCkdftaO/view?usp=drive_link",
+    "explanationLink": "https://www.youtube.com/watch?v=SbV9j8ArIko&list=PLYPYBWtAMWoS3wS52pUzvcu_1KdhaK5WR",
+    "pastQuestionsLink": "https://www.instagram.com/jami3iyoun/"
+  },
+  {
+    "name": "المهارات الحياتية",
+    "dossierDescription": "دوسية المادة المتمدة",
+    "summaryDescription": "يتوفر ملخص للمادة",
+    "explanationDescription": "يمكنك ارسال لنا مصدر يشرح المادة",
+    "pastQuestionsDescription": "",
+    "dossierLink": "https://drive.google.com/file/d/1IrpbUWPyksoNboPsXUj0ssAHruFyPhwl/view?usp=drive_link",
+    "summaryLink": "https://drive.google.com/file/d/1jMurPqetwmTh4uVrsLEURL4RyRmHctYc/view?usp=drive_link",
+    "explanationLink": "",
+    "pastQuestionsLink": ""
+  },
+  {
+    "name": "الاحصاء والاحتمالات",
+    "dossierDescription": "دوسية المادة المتمدة",
+    "summaryDescription": "يتوفر ملخص للمادة",
+    "explanationDescription": "يتوفر اسئلة سنوات للمادة",
+    "pastQuestionsDescription": "أسئلة سنوات سابقة لمادة ",
+    "dossierLink": "https://drive.google.com/file/d/1C5_TB9HJ50Pgoc2vGlNPDs_SXDJFco7G/view?usp=drive_link",
+    "summaryLink": "https://drive.google.com/file/d/1pqdZRWrXfBtr3u4AHoX68YnE8GuCtng9/view?usp=drive_link",
+    "explanationLink": "",
+    "pastQuestionsLink": "https://drive.google.com/file/d/1H8V53NFJFvg4zaMcYd5tpCQbc-JR4BD4/view?usp=drive_link"
+  },
+  {
+    "name": "كالكولاس 1",
+    "dossierDescription": "دوسية المادة المتمدة",
+    "summaryDescription": "مادة رياضسات، وناسف لا يوجد ملخص لدينا",
+    "explanationDescription": "يتوفر مصدر على يوتيوب لشرح المادة",
+    "pastQuestionsDescription": "أسئلة سنوات سابقة لمادة ",
+    "dossierLink": "https://drive.google.com/file/d/1-9iw0KeFA11qhUgR_V5IrgOE76q-7ZiJ/view?usp=drive_link",
+    "summaryLink": "",
+    "explanationLink": "https://www.youtube.com/playlist?list=PL8PqiXhu9aUoL3i2MwTSYi33gtIMAykUp",
+    "pastQuestionsLink": "https://drive.google.com/file/d/12VGONn8MRH_qWnOkHn0qTKQH8kRswk9o/view?usp=drive_link"
+  },
+  {
+    "name": "جبر خطي",
+    "dossierDescription": "دوسية المادة المتمدة",
+    "summaryDescription": "مادة رياضسات، وناسف لا يوجد ملخص لدينا",
+    "explanationDescription": "مصدر لشرح مفاهيم الجبر الخطي",
+    "pastQuestionsDescription": "أسئلة سنوات سابقة لمادة الجبر الخطي",
+    "dossierLink": "5?dmr=1https://drive.google.com/drive/folders/1NPfElKmF61feYDnsBXa4lEHXh4ulZLi&ec=wgc-drive-globalnav-goto",
+    "summaryLink": "https://drive.google.com/drive/folders/1NPfElKmF61feYDnsBXa4lEHXh4ulZLi5?dmr=1&ec=wgc-drive-globalnav-goto",
+    "explanationLink": "https://example.com/explanation-linear-algebra",
+    "pastQuestionsLink": "https://example.com/pastquestions-linear-algebra"
+  },
+  {
+    "name": "برمجة 1",
+    "dossierDescription": "دوسية المادة المتمدة",
+    "summaryDescription": "مادة برمجة، وناسف لا يوجد ملخص لدينا",
+    "explanationDescription": "يتوفر مصدر لشرح المادة على يوتيوب",
+    "pastQuestionsDescription": "يتوفر اسئلة سنوات للمادة",
+    "dossierLink": "https://drive.google.com/drive/folders/1dnShKZhEc6LYaErO1_FovGSS7EhsLRCf?usp=drive_link",
+    "summaryLink": "",
+    "explanationLink": "https://www.youtube.com/watch?v=z1FdInL8sjg&list=PLCInYL3l2AajFAiw4s1U4QbGszcQ-rAb3",
+    "pastQuestionsLink": "https://drive.google.com/drive/folders/1W9KFG1s_ElcKQ1RM2tBat-1NffXo32x9?usp=drive_link"
+  },
 
-  Course({
-    required this.name,
-    required this.dossierDescription,
-    required this.summaryDescription,
-    required this.explanationDescription,
-    required this.pastQuestionsDescription,
-    required this.dossierLink,
-    required this.summaryLink,
-    required this.explanationLink,
-    required this.pastQuestionsLink,
-  });
+    {
+    "name": "علوم عسكرية",
+    "dossierDescription": "دوسية المادة المتمدة",
+    "summaryDescription": "مادة برمجة، وناسف لا يوجد ملخص لدينا",
+    "explanationDescription": "يتوفر مصدر لشرح المادة على يوتيوب",
+    "pastQuestionsDescription": "يتوفر اسئلة سنوات للمادة",
+    "dossierLink": "https://t.me/jadaraya/70",
+    "summaryLink": "https://t.me/jadaraya/10",
+    "explanationLink": "",
+    "pastQuestionsLink": "https://t.me/jadaraya/67"
+  },
 
-  // دالة لتحويل JSON إلى كائن Course
-  factory Course.fromJson(Map<String, dynamic> json) {
-    return Course(
-      name: json['name'] ?? '',
-      dossierDescription: json['dossierDescription'] ?? '',
-      summaryDescription: json['summaryDescription'] ?? '',
-      explanationDescription: json['explanationDescription'] ?? '',
-      pastQuestionsDescription: json['pastQuestionsDescription'] ?? '',
-      dossierLink: json['dossierLink'] ?? '',
-      summaryLink: json['summaryLink'] ?? '',
-      explanationLink: json['explanationLink'] ?? '',
-      pastQuestionsLink: json['pastQuestionsLink'] ?? '',
-    );
-  }
-}
 
-final courses = [
-  Course(
-    name: 'التربية الوطنية',
-    dossierDescription: 'دوسية المادة المتمدة',
-    summaryDescription: 'يتوفر ملخص للماجة',
-    explanationDescription: 'يمكنك ارسال لنا مصدر يشرح المادة',
-    pastQuestionsDescription: 'أسئلة سنوات سابقة لمادة التربية الوطنية',
-    dossierLink: 'https://drive.google.com/drive/folders/1jlyb792o40AqL8cmJypbmVlYTnSL71e_?usp=drive_link',
-    summaryLink: 'https://drive.google.com/drive/folders/1jlyb792o40AqL8cmJypbmVlYTnSL71e_?usp=drive_link',
-    explanationLink: 'https://www.instagram.com/jami3iyoun/',
-    pastQuestionsLink: 'https://drive.google.com/drive/folders/1jlyb792o40AqL8cmJypbmVlYTnSL71e_?usp=drive_link',
-  ),
-  Course(
-    name: 'القيادة والمسؤلية',
-    dossierDescription: 'دوسية المادة المتمدة',
-    summaryDescription: 'يتوفر ملخص للمادة',
-    explanationDescription: 'يمكنك ارسال لنا مصدر يشرح المادة',
-    pastQuestionsDescription: 'أسئلة سنوات سابقة لمادة القيادة والمسؤلية',
-    dossierLink: 'https://drive.google.com/drive/folders/19aI748qG8fLBn3Iyft29CaUNkVOHWAaA?usp=drive_link',
-    summaryLink: 'https://drive.google.com/drive/folders/19aI748qG8fLBn3Iyft29CaUNkVOHWAaA?usp=drive_link',
-    explanationLink: 'https://www.instagram.com/jami3iyoun/',
-    pastQuestionsLink: 'https://drive.google.com/drive/folders/19aI748qG8fLBn3Iyft29CaUNkVOHWAaA?usp=drive_link',
-  ),
-  Course(
-    name: 'مهارات الاتصال والتواصل',
-    dossierDescription: 'دوسية المادة المتمدة',
-    summaryDescription: 'يتوفر ملخص للمادة',
-    explanationDescription: 'يمكنك ارسال لنا مصدر يشرح المادة',
-    pastQuestionsDescription: 'للأسف حالياً لا تتوفر لدينا اسئلة سنوات للمادة',
-    dossierLink: 'https://drive.google.com/file/d/19kUpcF4uVbEST0mNAqBqLICL7bGsgmxK/view?usp=drive_link',
-    summaryLink: 'https://drive.google.com/file/d/1-EP_YxH-WDXmVcoxU7Dj_QdeNCkdftaO/view?usp=drive_link',
-    explanationLink: 'https://www.youtube.com/watch?v=SbV9j8ArIko&list=PLYPYBWtAMWoS3wS52pUzvcu_1KdhaK5WR',
-    pastQuestionsLink: 'https://www.instagram.com/jami3iyoun/',
-  ),
-  Course(
-    name: 'المهارات الحياتية',
-    dossierDescription: 'دوسية المادة المتمدة',
-    summaryDescription: 'يتوفر ملخص للمادة',
-    explanationDescription: 'يمكنك ارسال لنا مصدر يشرح المادة',
-    pastQuestionsDescription: '',
-    dossierLink: 'https://drive.google.com/file/d/1IrpbUWPyksoNboPsXUj0ssAHruFyPhwl/view?usp=drive_link',
-    summaryLink: 'https://drive.google.com/file/d/1jMurPqetwmTh4uVrsLEURL4RyRmHctYc/view?usp=drive_link',
-    explanationLink: '',
-    pastQuestionsLink: '',
-  ),
-  Course(
-    name: 'الاحصاء والاحتمالات',
-    dossierDescription: 'دوسية المادة المتمدة',
-    summaryDescription: 'يتوفر ملخص للمادة',
-    explanationDescription: 'يتوفر اسئلة سنوات للمادة',
-    pastQuestionsDescription: 'أسئلة سنوات سابقة لمادة ',
-    dossierLink: 'https://drive.google.com/file/d/1C5_TB9HJ50Pgoc2vGlNPDs_SXDJFco7G/view?usp=drive_link',
-    summaryLink: 'https://drive.google.com/file/d/1pqdZRWrXfBtr3u4AHoX68YnE8GuCtng9/view?usp=drive_link',
-    explanationLink: '',
-    pastQuestionsLink: 'https://drive.google.com/file/d/1H8V53NFJFvg4zaMcYd5tpCQbc-JR4BD4/view?usp=drive_link',
-  ),
-  Course(
-    name: 'كالكولاس 1',
-    dossierDescription: 'دوسية المادة المتمدة',
-    summaryDescription: 'مادة رياضسات، وناسف لا يوجد ملخص لدينا',
-    explanationDescription: 'يتوفر مصدر على يوتيوب لشرح المادة',
-    pastQuestionsDescription: 'أسئلة سنوات سابقة لمادة ',
-    dossierLink: 'https://drive.google.com/file/d/1-9iw0KeFA11qhUgR_V5IrgOE76q-7ZiJ/view?usp=drive_link',
-    summaryLink: '',
-    explanationLink: 'https://www.youtube.com/playlist?list=PL8PqiXhu9aUoL3i2MwTSYi33gtIMAykUp',
-    pastQuestionsLink: 'https://drive.google.com/file/d/12VGONn8MRH_qWnOkHn0qTKQH8kRswk9o/view?usp=drive_link',
-  ),
-  Course(
-    name: 'جبر خطي',
-    dossierDescription: 'دوسية المادة المتمدة',
-    summaryDescription: 'مادة رياضسات، وناسف لا يوجد ملخص لدينا',
-    explanationDescription: 'مصدر لشرح مفاهيم الجبر الخطي',
-    pastQuestionsDescription: 'أسئلة سنوات سابقة لمادة الجبر الخطي',
-    dossierLink: '5?dmr=1https://drive.google.com/drive/folders/1NPfElKmF61feYDnsBXa4lEHXh4ulZLi&ec=wgc-drive-globalnav-goto',
-    summaryLink: 'https://drive.google.com/drive/folders/1NPfElKmF61feYDnsBXa4lEHXh4ulZLi5?dmr=1&ec=wgc-drive-globalnav-goto',
-    explanationLink: 'https://example.com/explanation-linear-algebra',
-    pastQuestionsLink: 'https://example.com/pastquestions-linear-algebra',
-  ),
-  Course(
-    name: 'برمجة 1',
-    dossierDescription: 'دوسية المادة المتمدة',
-    summaryDescription: 'مادة برمجة، وناسف لا يوجد ملخص لدينا',
-    explanationDescription: 'يتوفر مصدر لشرح المادة على يوتيوب',
-    pastQuestionsDescription: 'يتوفر اسئلة سنوات للمادة',
-    dossierLink: 'https://drive.google.com/drive/folders/1dnShKZhEc6LYaErO1_FovGSS7EhsLRCf?usp=drive_link',
-    summaryLink: '',
-    explanationLink: 'https://www.youtube.com/watch?v=z1FdInL8sjg&list=PLCInYL3l2AajFAiw4s1U4QbGszcQ-rAb3',
-    pastQuestionsLink: 'https://drive.google.com/drive/folders/1W9KFG1s_ElcKQ1RM2tBat-1NffXo32x9?usp=drive_link',
-  ),
-
-  Course(
-    name: 'علوم عسكرية',
-    dossierDescription: 'دوسية المادة المتمدة',
-    summaryDescription: 'مادة برمجة، وناسف لا يوجد ملخص لدينا',
-    explanationDescription: 'يتوفر مصدر لشرح المادة على يوتيوب',
-    pastQuestionsDescription: 'يتوفر اسئلة سنوات للمادة',
-    dossierLink: 'https://t.me/jadaraya/70',
-    summaryLink: 'https://t.me/jadaraya/10',
-    explanationLink: '',
-    pastQuestionsLink: 'https://t.me/jadaraya/67',
-  ),
-
-];
+]
